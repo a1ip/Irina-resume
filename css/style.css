@@ -167,6 +167,10 @@ header {
     margin: 0 auto;
 }
 
+.avatar {
+    width: auto;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column-reverse;
