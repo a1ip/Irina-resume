@@ -131,6 +131,18 @@ footer button {
     text-shadow:0px 1px 0px #3d768a;
 }
 
+button a:link {
+    color: black;
+}
+
+button a:visited {
+    color: black;
+}
+
+button a:hover{
+    color: gray;
+}
+
 @media only screen and (max-width: 500px) { body {
     display: flex;
     flex-direction: column;
